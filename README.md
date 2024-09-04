@@ -15,10 +15,10 @@ Need a tempo tune-up for your live performance? Need to play for dance and keep 
 - Dark mode for low-power usage on OLED devices
 
 **Note:**
-Tempo detection is currently optimized for music with strong rhythmic or percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs.
+Tempo detection is currently optimized for music with strong rhythmic or percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs. Currently using [TempiBeatDetection](https://github.com/CheckThisCodeCarefully/TempiBeatDetection). I plan to improve the algorithm, collaborators welcome.
 
 ### Support
 Feedback is welcome through [email](mailto:bloomvinelabs@gmail.com). As I'm the sole developer, I will try to read all feedback but cannot respond to all.
 
 ### Privacy Policy
-MetroBPM uses microphone on your devices only for tempo deteciton, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
+MetroBPM uses microphone on your devices only for tempo detection, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
