@@ -18,7 +18,7 @@ Need a tempo tune-up for your live performance? Need to play for dance and keep 
 Tempo detection is currently optimized for music with strong rhythmic or percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs.
 
 ### Support
-Feedback is welcome through [email](mailto:bloomvinelabs@gmail.com). This tool is developed and supported by a single person, me, I will try to read all feedback but cannot respond to all.
+Feedback is welcome through [email](mailto:bloomvinelabs@gmail.com). As I'm the sole developer, I will try to read all feedback but cannot respond to all.
 
 ### Privacy Policy
 MetroBPM uses microphone on your devices only for tempo deteciton, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
