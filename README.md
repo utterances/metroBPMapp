@@ -15,7 +15,7 @@ Need a tempo tune-up for your live performance? Need to play for dance and keep 
 - Dark mode for low-power usage on OLED devices
 
 **Note:**
-Tempo detection is currently optimized for music with strong rhythmic or percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs. Currently using [TempiBeatDetection](https://github.com/CheckThisCodeCarefully/TempiBeatDetection). I plan to improve the algorithm, collaborators welcome.
+Tempo detection is currently optimized for music with strong rhythmic or percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs. Currently using [TempiBeatDetection](https://github.com/CheckThisCodeCarefully/TempiBeatDetection) by John Scalo. I plan to improve the algorithm, collaborators welcome.
 
 ### Support
 Feedback is welcome through [email](mailto:bloomvinelabs@gmail.com). As I'm the sole developer, I will try to read all feedback but cannot respond to all.
