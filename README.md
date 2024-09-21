@@ -19,6 +19,12 @@ Need a tempo tune-up for your live performance? Need to play for dance and keep 
 **Note:**
 Tempo detection is currently optimized for music with strong rhythmic / percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs. Currently using [TempiBeatDetection](https://github.com/CheckThisCodeCarefully/TempiBeatDetection) by John Scalo. I plan to improve the algorithm, collaborators welcome.
 
+**Coming soon in future updates**
+- iOS 18 Control Center + Lock Screen Control support
+- refinements to tempo graph
+- tempo dynamic gauge (speed up / slow down)
+
+
 ### Support
 Feedback is welcome via [email](mailto:bloomvinelabs@gmail.com). As I'm the sole developer, I will try to read all comments but cannot respond to all.
 
@@ -26,6 +32,7 @@ Feedback is welcome via [email](mailto:bloomvinelabs@gmail.com). As I'm the sole
 MetroBPM uses microphone on your devices only for tempo detection, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
 
 ### Version History
+
 *1.0.2*
 - Mac (Catalyst) support
 - Improved detection
