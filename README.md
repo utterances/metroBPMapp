@@ -35,7 +35,7 @@ MetroBPM uses microphone on your devices only for tempo detection, it does not r
 ### Version History
 *1.0.4*
 - Metronome and Tempo Detection can now run in the background with Live Activity on your Lock Screen
-- Dynamic Island (iPhone 14 Pro and later), and watchOS Smart Stack support
+- Dynamic Island and watchOS Smart Stack support
 - Refined Zoomed mode to detect smaller tempo range
 - Frequently used tempo are now saved as home screen app shortcuts, accessible by tap-hold the app icon
 - Additional metronome sound
