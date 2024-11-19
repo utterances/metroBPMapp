@@ -11,10 +11,13 @@ Need a tempo tune-up for your live performance? Need to play for dance and keep 
 - Tempo history plot for review
 - Metronome with selectable sounds and visualization
 - Tap-to-detect tempo
+- Quickly launch frequently used tempo by tap-hold app icon on homescreen
+- No Ads or Subscription
 
 **Modern Design**
 - Optimized for live on-stage use on iPhone and iPad
 - Dark mode for low-power use on devices with OLED displays
+- Live Activity & Dynamic Island support (monitor and control from Home Screen, Lock Screen and Apple Watch)
 
 **Note:**
 Tempo detection is currently optimized for music with strong rhythmic / percussive elements in quadruple, 6/8 time signatures, performance may vary on other inputs. Currently using [TempiBeatDetection](https://github.com/CheckThisCodeCarefully/TempiBeatDetection) by John Scalo. I plan to improve the algorithm, collaborators welcome.
@@ -30,7 +33,13 @@ Feedback is welcome via [email](mailto:bloomvinelabs@gmail.com). As I'm the sole
 MetroBPM uses microphone on your devices only for tempo detection, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
 
 ### Version History
-
+*1.0.4*
+- Metronome and Tempo Detection can now run in the background with Live Activity on your Lock Screen
+- Dynamic Island (iPhone 14 Pro and later), and watchOS Smart Stack support
+- Refined Zoomed mode to detect smaller tempo range
+- Frequently used tempo are now saved as home screen app shortcuts, accessible by tap-hold the app icon
+- Additional metronome sound
+  
 *1.0.3*
 - iOS 18: add detect tempo shortcut to Control Center + Lock Screen
 - Tempo graph can now be zoomed dynamically
