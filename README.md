@@ -41,7 +41,7 @@ Join [public beta testing](https://testflight.apple.com/join/UTkcegzV). Please n
 - Dynamic Island and watchOS Smart Stack support
 - Refined Zoomed mode to detect smaller tempo range
 - Frequently used tempo are now saved as home screen app shortcuts, accessible by tap-hold the app icon
-- Additional metronome sound
+- Additional metronome sounds
   
 *1.0.3*
 - iOS 18: add detect tempo shortcut to Control Center + Lock Screen
