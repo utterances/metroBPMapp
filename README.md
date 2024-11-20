@@ -32,9 +32,6 @@ Feedback is welcome via [email](mailto:bloomvinelabs@gmail.com). As I'm the sole
 ### Privacy Policy
 MetroBPM uses microphone on your devices only for tempo detection, it does not record any audio. It does not collect any data from you. Any setting and configuration are saved to your devices only.
 
-### Public Beta
-Join [public beta testing](https://testflight.apple.com/join/UTkcegzV). Please note beta versions can be unstable and may not function as designed, use as your own risk.
-
 ### Version History
 *1.0.4*
 - Metronome and Tempo Detection can now run in the background with Live Activity on your Lock Screen
