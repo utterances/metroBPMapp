@@ -45,29 +45,38 @@ body {
 .topbar-inner {
     display: flex;
     align-items: center;
-    height: 56px;
+    justify-content: center;
+    gap: 8px;
+    height: 52px;
 }
 
 .app-link {
     display: inline-flex;
     align-items: center;
-    gap: 10px;
+    gap: 6px;
     color: var(--text);
     text-decoration: none;
     font-weight: 600;
-    padding: 6px 10px;
-    border-radius: 10px;
-    transition: background 0.15s ease;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    padding: 5px 8px;
+    border-radius: 4px;
+    transition: background 0.15s ease, color 0.15s ease;
 }
 
 .app-link:hover {
-    background: var(--surface);
+    background: rgba(160, 166, 176, 0.18);
+}
+
+.app-link.is-selected {
+    background: rgba(160, 166, 176, 0.35);
+    color: #fff;
 }
 
 .app-link-icon {
-    width: 28px;
-    height: 28px;
-    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    border-radius: 6px;
     object-fit: cover;
 }
 
@@ -145,7 +154,7 @@ body {
     display: inline-block;
     margin-top: 36px;
     padding: 14px 32px;
-    border-radius: 12px;
+    border-radius: 9999px;
     background: var(--accent);
     color: #fff;
     font-size: 1.05rem;
@@ -243,6 +252,27 @@ body {
 }
 
 @media (max-width: 600px) {
+    .container {
+        padding: 0 12px;
+    }
+
+    .topbar-inner {
+        gap: 6px;
+        height: 48px;
+    }
+
+    .app-link {
+        font-size: 0.82rem;
+        padding: 4px 7px;
+        gap: 5px;
+    }
+
+    .app-link-icon {
+        width: 18px;
+        height: 18px;
+        border-radius: 5px;
+    }
+
     .hero h1 {
         font-size: 2.4rem;
     }
