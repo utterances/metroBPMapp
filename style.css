@@ -114,9 +114,8 @@ body {
 .logo {
     width: 112px;
     height: 112px;
-    border-radius: 24px;
+    /* border-radius: 24px; */
     object-fit: cover;
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
 }
 
 .hero h1 {
