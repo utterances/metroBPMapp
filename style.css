@@ -251,7 +251,7 @@ main .container {
 }
 
 .feature p {
-    color: var(--text);
+    color: var(--muted);
     font-size: 0.98rem;
 }
 
@@ -266,12 +266,12 @@ main .container {
 }
 
 .notes p {
-    color: var(--text);
+    color: var(--muted);
     margin-bottom: 8px;
 }
 
 .notes ul {
-    color: var(--text);
+    color: var(--muted);
     margin: 0 0 12px 20px;
 }
 
