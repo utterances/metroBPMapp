@@ -2,7 +2,7 @@
     color-scheme: light dark;
     --bg: #0f1115;
     --surface: #171a21;
-    --text: #f2f3f5;
+    --text: #f5f5f7;
     --muted: #a0a6b0;
     --accent: #e8623d;
     --border: #23262e;
@@ -54,6 +54,10 @@ body {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 0 24px;
+}
+
+main .container {
+    max-width: 740px;
 }
 
 /* Top bar */
@@ -247,7 +251,7 @@ body {
 }
 
 .feature p {
-    color: var(--muted);
+    color: var(--text);
     font-size: 0.98rem;
 }
 
@@ -262,12 +266,12 @@ body {
 }
 
 .notes p {
-    color: var(--muted);
+    color: var(--text);
     margin-bottom: 8px;
 }
 
 .notes ul {
-    color: var(--muted);
+    color: var(--text);
     margin: 0 0 12px 20px;
 }
 
