@@ -175,12 +175,29 @@ main .container {
     margin-top: 36px;
 }
 
+.hero-secondary-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
 .download-badge {
     height: 56px;
     width: auto;
     transition: transform 0.15s ease;
 }
 
+.coming-soon {
+    display: inline-block;
+    padding: 6px 16px;
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    color: var(--accent);
+    font-size: 1.05rem;
+    font-weight: 700;
+}
 
 
 .join-test-btn {
