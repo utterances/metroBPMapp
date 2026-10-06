@@ -189,14 +189,16 @@ main .container {
     transition: transform 0.15s ease;
 }
 
-.coming-soon {
+.download-button {
     display: inline-block;
     padding: 6px 16px;
-    border: 1px solid var(--accent);
+    border: 1px solid #000;
     border-radius: 8px;
-    color: var(--accent);
+    background: #fff;
+    color: #000;
     font-size: 1.05rem;
-    font-weight: 700;
+    font-weight: 600;
+    text-decoration: none;
 }
 
 
