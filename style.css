@@ -164,6 +164,7 @@ main .container {
 
 .download-link {
     display: inline-block;
+    margin-top: 28px;
 }
 
 .hero-actions {
