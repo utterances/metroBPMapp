@@ -321,6 +321,12 @@ main .container {
     margin-bottom: 8px;
 }
 
+.notes .version-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
 .notes ul {
     color: var(--muted);
     margin: 0 0 12px 20px;
